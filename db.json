@@ -1,0 +1,148 @@
+{
+    "patients": [
+      {
+        "id": 1,
+        "title": "John",
+        "age": 30,
+        " gender": "M",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/002/693/653/small/fever-rgb-color-icon-disease-symptom-allergic-reaction-patient-with-temperature-medical-treatment-vaccination-side-effect-health-care-problem-and-medicine-isolated-illustration-vector.jpg",
+        "medicines": "ibuprofen,aspirin"
+      },
+      {
+        "id": 2,
+        "title": "Jane",
+        "age": 28,
+        " gender": "F",
+        "image": "data:image/png;base64,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",
+        "medicines": " Lisinopril,Paracetamol "
+      },
+      {
+        "id": 3,
+        "title": "Rohn",
+        "age": 40,
+        " gender": "M",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ib-9QM6mXI5fe78nkv0XTyu8c1Jhh6N_8eHGojbWVitlrzaVVmyO15jzqJrxtY-9m40&usqp=CAU",
+        "medicines": "Diclofenac Sodium,ibuprofen"
+      },
+      {
+        "id": 4,
+        "title": "Rahul",
+        "age": 32,
+        " gender": "M",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJMs4or-gyUMlbXla0eN4KpEHFDEjQuVkooy7MYsWacdZktdVlAVlRqMhen0E06Tvsvw&usqp=CAU",
+        "medicines": "metacine, Metformin"
+      },
+      {
+        "id": 5,
+        "title": "Raghav",
+        "age": 22,
+        " gender": "M",
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDmvRDkixcd7d2uUI1XiCH6AcxTzJC6dttjgJ63AZRwkgi40I4B_uC0IzMj31TXxdhO7c&usqp=CAU",
+        "medicines": "metacine,ibuprofen,Nimesulide"
+      },
+      {
+        "id": 6,
+        "title": "priya",
+        "age": 38,
+        " gender": "F",
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyrijXJsb-LCDpVqUHTFZpKUpKJbMj8WiwEqTT2_8HsavsfWIM00NAT95L96n9aLCTLCY&usqp=CAU",
+        "medicines": " Atorvastatin,Paracetamol "
+      },
+      {
+        "id": 7,
+        "title": "vikas",
+        "age": 28,
+        " gender": "M",
+        "image": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDmvRDkixcd7d2uUI1XiCH6AcxTzJC6dttjgJ63AZRwkgi40I4B_uC0IzMj31TXxdhO7c&usqp=CAU",
+        "medicines": " Piroxicam,ibuprofen,Nimesulide"
+      },
+      {
+        "id": 8,
+        "title": "amit",
+        "age": 28,
+        " gender": "M",
+        "image": "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI91zHLDT8Y9pyp7_kiplXqThI5jZFBHCCxeJmhKt4hTLe940OKr0EbDmhNCNwAERiJ1I&usqp=CAU",
+        "medicines": " Piroxicam, Nimesulide"
+      },
+      {
+        "id": 9,
+        "title": "amit",
+        "age": 28,
+        " gender": "M",
+        "image": "",
+        "medicines": " Piroxicam, Nimesulide"
+      },
+      {
+        "id": 10,
+        "title": "Rohn",
+        "age": 43,
+        " gender": "M",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ib-9QM6mXI5fe78nkv0XTyu8c1Jhh6N_8eHGojbWVitlrzaVVmyO15jzqJrxtY-9m40&usqp=CAU",
+        "medicines": "Diclofenac Sodium,ibuprofen"
+      },
+      {
+        "title": "in",
+        "status": false,
+        "id": 11
+      }
+    ],
+    "Medicines": [
+      {
+        "id": 1,
+        "medicines": "Diclofenac Sodium"
+      },
+      {
+        "id": 2,
+        "medicines": " ibuprofen"
+      },
+      {
+        "id": 3,
+        "medicines": " Piroxicam"
+      },
+      {
+        "id": 4,
+        "medicines": "Paracetamol"
+      },
+      {
+        "id": 5,
+        "medicines": "aspirin"
+      },
+      {
+        "id": 6,
+        "medicines": "Atorvastatin"
+      },
+      {
+        "id": 7,
+        "medicines": "Lisinopril"
+      },
+      {
+        "id": 8,
+        "medicines": "Metformin"
+      },
+      {
+        "id": 9,
+        "medicines": "Albuterol"
+      },
+      {
+        "id": 10,
+        "medicines": "Omeprazole"
+      }
+    ],
+    "todos": [
+      {
+        "title": "sani",
+        "status": false,
+        "id": 1
+      },
+      {
+        "title": "a",
+        "status": false,
+        "id": 2
+      },
+      {
+        "title": "saniya",
+        "status": false,
+        "id": 3
+      }
+    ]
+  }
